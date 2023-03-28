@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Test3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CustomScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/InkrementacjaDekrementacja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Kalkulator.java" afterDir="false" />
+    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Test4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OperatoryPorownania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Zadanie2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OperatoryMatematyczne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperatoryMatematyczne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Kalkulator">
+  <component name="RunManager" selected="Application.Zadanie2">
     <configuration name="CustomScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomScanner" />
       <module name="Java" />
@@ -65,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatoryMatematyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperatoryMatematyczne" />
+    <configuration name="OperatoryPorownania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatoryPorownania" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zmienne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zmienne" />
+    <configuration name="Zadanie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie2" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie2" />
+        <item itemvalue="Application.OperatoryPorownania" />
         <item itemvalue="Application.Kalkulator" />
         <item itemvalue="Application.CustomScanner" />
         <item itemvalue="Application.InkrementacjaDekrementacja" />
-        <item itemvalue="Application.OperatoryMatematyczne" />
-        <item itemvalue="Application.Zmienne" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680037958093</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test4">
+      <created>1680041206245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680041206245</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +151,7 @@
     <MESSAGE value="Zmienne" />
     <MESSAGE value="Test2" />
     <MESSAGE value="Test3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test3" />
+    <MESSAGE value="Test4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test4" />
   </component>
 </project>
