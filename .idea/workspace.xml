@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Test2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/OperatoryMatematyczne.java" afterDir="false" />
+    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Test3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InkrementacjaDekrementacja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Kalkulator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Zmienne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zmienne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/OperatoryMatematyczne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OperatoryMatematyczne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +43,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OperatoryMatematyczne">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+  <component name="RunManager" selected="Application.Kalkulator">
+    <configuration name="CustomScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomScanner" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InkrementacjaDekrementacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InkrementacjaDekrementacja" />
+      <module name="Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kalkulator" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,9 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kalkulator" />
+        <item itemvalue="Application.CustomScanner" />
+        <item itemvalue="Application.InkrementacjaDekrementacja" />
         <item itemvalue="Application.OperatoryMatematyczne" />
         <item itemvalue="Application.Zmienne" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679959470758</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test3">
+      <created>1680037958093</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680037958093</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +145,7 @@
     <MESSAGE value="Typy podstawowe" />
     <MESSAGE value="Zmienne" />
     <MESSAGE value="Test2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test2" />
+    <MESSAGE value="Test3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test3" />
   </component>
 </project>
