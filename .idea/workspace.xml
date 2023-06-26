@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Instrukcja warunkowa IF" />
+    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="IF">
+      <change afterPath="$PROJECT_DIR$/src/main/java/InstrukcjaWarunkowaElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +21,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -38,15 +47,15 @@
   }
 }</component>
   <component name="RunManager" selected="Application.InstrukcjaWarunkowaIf">
-    <configuration name="InstrukcjaWarunkowaIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InstrukcjaWarunkowaIf" />
+    <configuration name="InstrukcjaWarunkowaElseIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstrukcjaWarunkowaElseIf" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kalkulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kalkulator" />
+    <configuration name="InstrukcjaWarunkowaIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InstrukcjaWarunkowaIf" />
       <module name="Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,10 +85,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.InstrukcjaWarunkowaIf" />
+        <item itemvalue="Application.InstrukcjaWarunkowaElseIf" />
         <item itemvalue="Application.OperatryLogiczne" />
         <item itemvalue="Application.Zadanie2" />
         <item itemvalue="Application.OperatoryPorownania" />
-        <item itemvalue="Application.Kalkulator" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687815668141</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="workspace">
+      <created>1687816114935</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687816114935</updated>
+    </task>
+    <task id="LOCAL-00009" summary="IF">
+      <created>1687818185013</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687818185013</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +187,8 @@
     <MESSAGE value="Test4" />
     <MESSAGE value="Test4 oraz Zadanie2" />
     <MESSAGE value="Instrukcja warunkowa IF" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja warunkowa IF" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="IF" />
+    <option name="LAST_COMMIT_MESSAGE" value="IF" />
   </component>
 </project>
