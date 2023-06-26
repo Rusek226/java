@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="instrukcja Else If">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AgeChecker.java" afterDir="false" />
+    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="wiek">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -171,7 +170,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687819303809</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="wiek">
+      <created>1687820877387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687820877387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="wiek">
+      <created>1687821140728</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1687821140728</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +210,7 @@
     <MESSAGE value="workspace" />
     <MESSAGE value="IF" />
     <MESSAGE value="instrukcja Else If" />
-    <option name="LAST_COMMIT_MESSAGE" value="instrukcja Else If" />
+    <MESSAGE value="wiek" />
+    <option name="LAST_COMMIT_MESSAGE" value="wiek" />
   </component>
 </project>
