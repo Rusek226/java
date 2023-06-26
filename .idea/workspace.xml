@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Test4 oraz Zadanie2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/InstrukcjaWarunkowaIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/OperatryLogiczne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0c4e1599-f28f-4986-9a58-9a35dc0bb96f" name="Changes" comment="Instrukcja warunkowa IF" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680042161596</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Instrukcja warunkowa IF">
+      <created>1687815668141</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687815668141</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +163,7 @@
     <MESSAGE value="Test3" />
     <MESSAGE value="Test4" />
     <MESSAGE value="Test4 oraz Zadanie2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test4 oraz Zadanie2" />
+    <MESSAGE value="Instrukcja warunkowa IF" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instrukcja warunkowa IF" />
   </component>
 </project>
