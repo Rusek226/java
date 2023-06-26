@@ -1,7 +1,7 @@
 public class InstrukcjaWarunkowaElseIf {
 
     public static void main(String[] args) {
-        int number =12;
+        int number =2;
         if (number ==0){
             System.out.println("Liczba równa zero");
         }  else if (number > 10){

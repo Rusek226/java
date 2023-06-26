@@ -2,7 +2,7 @@ public class InstrukcjaWarunkowaIf {
 
     public static void main(String[] args) {
         float dzielna = 4.0F;
-        float dzielnik = 2.0F;
+        float dzielnik = 0;
 
         if (dzielnik != 0){
 
