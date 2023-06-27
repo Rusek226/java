@@ -13,7 +13,7 @@ public class InstrukcjaSterujacaSwitch {
                 System.out.println("Cena to 9 zł");
                 break;
             default:
-                System.out.println("Brak dania w karcie");
+                System.out.println("Brak dania w karcie restauracji");
         }
 
     }
