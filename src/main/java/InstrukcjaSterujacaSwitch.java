@@ -1,6 +1,6 @@
 public class InstrukcjaSterujacaSwitch {
     public static void main(String[] args) {
-        String danie = "Pizza";
+        String danie = "chleb";
 
         switch (danie) {
             case "Pizza" :
